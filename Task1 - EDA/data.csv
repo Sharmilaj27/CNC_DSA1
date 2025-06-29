@@ -1,0 +1,11 @@
+Employee_ID,Department,Experience_Years,Salary,Performance_Rating
+E101,Development,3,60000,4
+E102,QA,2,45000,3
+E103,Development,5,80000,5
+E104,Support,4,50000,4
+E105,HR,6,55000,3
+E106,Development,1,40000,2
+E107,QA,3,47000,4
+E108,Support,2,42000,3
+E109,Development,7,95000,5
+E110,HR,4,52000,4
